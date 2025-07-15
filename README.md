@@ -12,7 +12,7 @@ Greenden is a simple and elegant website showcasing home products, including a s
 1.HTML
 2.Tailwind CSS
 
-## TO VIEW MY LATEST PROJECT CLICK THE LINK GIVEN [https://devanand-10.github.io/GreenDen-Tailwind/index.html]
+## TO VIEW MY LATEST PROJECT CLICK THE LINK GIVEN [https://devanand-10.github.io/GreenDen/]
 
 ## ✨ Future Enhancements
 Adding interactivity with JavaScript.
