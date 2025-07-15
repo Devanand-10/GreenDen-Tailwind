@@ -1,5 +1,5 @@
 ## Greenden 🌿
-Greenden is a simple and elegant website showcasing home products, including a selection of beautiful flower pots for sale. Built entirely with HTML and Tailwind CSS, this project provides a clean and responsive design, ensuring a seamless user experience.
+Welcome to my project.Greenden is a simple and elegant website showcasing home products, including a selection of beautiful flower pots for sale. Built entirely with HTML and Tailwind CSS, this project provides a clean and responsive design, ensuring a seamless user experience.
 
 ## 🌟 Features:
 
@@ -11,10 +11,8 @@ Greenden is a simple and elegant website showcasing home products, including a s
 ## 🚀 Technologies Used:
 1.HTML
 2.Tailwind CSS
+3.Java script
 
 ## TO VIEW MY LATEST PROJECT CLICK THE LINK GIVEN [https://devanand-10.github.io/GreenDen/]
 
-## ✨ Future Enhancements
-Adding interactivity with JavaScript.
-Integrating a shopping cart system.
-Expanding the product catalog
+
